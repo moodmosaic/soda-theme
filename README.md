@@ -1,6 +1,6 @@
 # Soda Theme
 
-Dark and light custom UI themes for Sublime Text 2 and Sublime Text 3.
+Dark and light custom UI themes for Sublime Text 2 and Sublime Text 3. – Tweaked to take advantage of Retina displays on Windows. Read more about this [here](http://blog.nikosbaxevanis.com/2015/01/06/tweaking-sublime-text-themes-to-take-advantage-of-retina-displays-on-windows/).
 
 Project site: [http://buymeasoda.github.com/soda-theme/](http://buymeasoda.github.com/soda-theme/)
 
